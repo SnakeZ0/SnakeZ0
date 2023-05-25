@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnakeZ0 (Pedro Freire Baleeiro)
+- 👋 Hi, I’m @SnakeZ0 (Pedro Freire Baleeiro). Currently I'm studying Computer Science @ UFSCar
 - 👀 I’m interested in learning the theory behind things, Programming (C, C++ and Python), Machine Learning and Gamedev.
 - 🌱 I’m currently learning Java and C#.
 - 💞️ I’m looking to collaborate on interesting and hard projects
