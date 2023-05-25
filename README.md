@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SnakeZ0
-- 👀 I’m interested in gamedev and programming in general
-- 🌱 I’m currently learning C++/C# and Python and intend on learning Java.
-- 💞️ I’m looking to collaborate on ... (don't know yet)
-- 📫 How to reach me linkedin.com/in/pedro-freire-baleeiro/
+- 👀 I’m interested in learning the theory behind things, Programming (C, C++ and Python), Machine Learning and Gamedev.
+- 🌱 I’m currently learning Java and C#.
+- 💞️ I’m looking to collaborate on interesting and hard projects
+- 📫 How to reach me: linkedin.com/in/pedro-freire-baleeiro/
 
 <!---
 SnakeZ0/SnakeZ0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
